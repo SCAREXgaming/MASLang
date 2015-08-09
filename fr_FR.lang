@@ -1,0 +1,11 @@
+###### MASLang file fr_FR ######
+
+# Menu bar
+# File menu
+menu.file=Fichier
+menu.file.new=Nouveau projet
+menu.file.open=Ouvrir un projet
+menu.file.quit=Quitter le programme
+
+# Edit menu
+menu.edit=Editer
