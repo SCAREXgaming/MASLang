@@ -9,3 +9,8 @@ menu.file.quit=Quitter le programme
 
 # Edit menu
 menu.edit=Editer
+
+
+# Panels
+panel.rotation=Rotation
+panel.position=Position
