@@ -9,8 +9,22 @@ menu.file.quit=Quit program
 
 # Edit menu
 menu.edit=Edit
+menu.edit.undo=Undo
+menu.edit.redo=Redo
+menu.edit.delete=Delete
+menu.edit.copy=Copy
+menu.edit.cut=Cut
+menu.edit.paste=Paste
+menu.edit.preferences=Preferences
+
+# Help menu
+menu.help=Help
+menu.help.git=Github
+menu.help.langProject=MAS lang project
+menu.help.scarexWebsite=SCAREX Website
 
 
 # Panels
 panel.rotation=Rotation
 panel.position=Position
+panel.size=Size
