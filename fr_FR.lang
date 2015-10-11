@@ -28,3 +28,30 @@ menu.help.scarexWebsite=SCAREX Site web
 panel.rotation=Rotation
 panel.position=Position
 panel.size=Taille
+
+
+# Configuration
+config.key=Clé
+config.value=Valeur
+config.keybindinggl.keypressed=Touche trouvée : %s (%d). Voulez vous utiliser cette touche ?
+# Movement
+config.movement=Mouvement
+config.movement.movement_ratio=Rapidité de mouvement
+config.movement.movement_ratio.desc=Vitesse à laquelle vous avancez
+config.movement.mouse_sensibility=Sensibilité de la souris
+config.movement.mouse_sensibility.desc=Vitesse à laquelle vous tournez la tête
+
+# Movement keyboard
+config.movement_keyboard=Mouvement clavier
+config.movement_keyboard.backward=Derrière
+config.movement_keyboard.backward.desc=Aller en arrière
+config.movement_keyboard.forward=Avant
+config.movement_keyboard.forward.desc=Aller en avant
+config.movement_keyboard.right=Droite
+config.movement_keyboard.right.desc=Aller à droite
+config.movement_keyboard.left=Gauche
+config.movement_keyboard.left.desc=Aller à gauche
+config.movement_keyboard.up=Haut
+config.movement_keyboard.up.desc=Aller en haut
+config.movement_keyboard.down=Bas
+config.movement_keyboard.down.desc=Aller en bas

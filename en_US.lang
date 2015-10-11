@@ -28,3 +28,30 @@ menu.help.scarexWebsite=SCAREX Website
 panel.rotation=Rotation
 panel.position=Position
 panel.size=Size
+
+
+# Configuration
+config.key=Key
+config.value=Value
+config.keybindinggl.keypressed=Key found : %s (%d). Do you want to use this key ?
+# Movement
+config.movement=Movement
+config.movement.movement_ratio=Movement ratio
+config.movement.movement_ratio.desc=The amout you go forward every time
+config.movement.mouse_sensibility=Mouse sensibility
+config.movement.mouse_sensibility.desc=The amout you turn your head with the mouse
+
+# Movement keyboard
+config.movement_keyboard=Movement keyboard
+config.movement_keyboard.backward=Backward
+config.movement_keyboard.backward.desc=Go backward
+config.movement_keyboard.forward=Forward
+config.movement_keyboard.forward.desc=Go forward
+config.movement_keyboard.right=Right
+config.movement_keyboard.right.desc=Go to the right
+config.movement_keyboard.left=Left
+config.movement_keyboard.left.desc=Go to the left
+config.movement_keyboard.up=Up
+config.movement_keyboard.up.desc=Go upward
+config.movement_keyboard.down=Down
+config.movement_keyboard.down.desc=Go downward
