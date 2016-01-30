@@ -55,3 +55,12 @@ config.movement_keyboard.up=Haut
 config.movement_keyboard.up.desc=Aller en haut
 config.movement_keyboard.down=Bas
 config.movement_keyboard.down.desc=Aller en bas
+
+
+# Project
+project.delete=Supprimer
+project.add=Ajouter
+project.directory=Dossier
+project.entity=Entité
+project.get_name=Insérer le nom :
+project.modify=Modifier
