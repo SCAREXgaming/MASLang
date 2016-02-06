@@ -14,6 +14,7 @@ menu.edit=Editer
 menu.edit.undo=Aller en arrière
 menu.edit.redo=Aller en avant
 menu.edit.delete=Supprimer
+menu.edit.delete.confirmation=Êtes-vous sûr(e) de vouloir supprimer "%s" ?
 menu.edit.copy=Copier
 menu.edit.cut=Couper
 menu.edit.paste=Coller
@@ -28,6 +29,7 @@ menu.help.scarexWebsite=SCAREX Site web
 
 # Panels
 panel.rotation=Rotation
+panel.offset=Décalage (Point de rotation)
 panel.position=Position
 panel.size=Taille
 
@@ -60,7 +62,6 @@ config.movement_keyboard.down.desc=Aller en bas
 
 
 # Project
-project.delete=Supprimer
 project.add=Ajouter
 project.directory=Dossier
 project.entity=Entité

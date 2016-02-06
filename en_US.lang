@@ -14,6 +14,7 @@ menu.edit=Edit
 menu.edit.undo=Undo
 menu.edit.redo=Redo
 menu.edit.delete=Delete
+menu.edit.delete.confirmation=Are you sure you want to delete "%s" ?
 menu.edit.copy=Copy
 menu.edit.cut=Cut
 menu.edit.paste=Paste
@@ -28,6 +29,7 @@ menu.help.scarexWebsite=SCAREX Website
 
 # Panels
 panel.rotation=Rotation
+panel.offset=Offset (Rotation point)
 panel.position=Position
 panel.size=Size
 
@@ -60,7 +62,6 @@ config.movement_keyboard.down.desc=Go downward
 
 
 # Project
-project.delete=Delete
 project.add=Add
 project.directory=Directory
 project.entity=Entity
