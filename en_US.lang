@@ -8,6 +8,8 @@ menu.file.open=Open project
 menu.file.quit=Quit program
 menu.file.save=Save
 menu.file.save_as=Save as
+menu.file.export=Export
+menu.file.export.none=None exportation module
 
 # Edit menu
 menu.edit=Edit
@@ -25,6 +27,7 @@ menu.help=Help
 menu.help.git=Github
 menu.help.langProject=MAS lang project
 menu.help.scarexWebsite=SCAREX Website
+menu.help.reload_lang_files=Reload lang files
 
 
 # Panels
@@ -67,3 +70,11 @@ project.directory=Directory
 project.entity=Entity
 project.get_name=Insert name :
 project.modify=Modify
+
+
+# Exportation
+# TESR Exportation Module
+exportation.tesr.generate_tesr=Generate TESR
+exportation.tesr.tesr_package_name=TESR Package name :
+exportation.tesr.model_name=Model name :
+exportation.tesr.model_package_name=Model Package name :
