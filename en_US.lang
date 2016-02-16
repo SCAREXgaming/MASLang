@@ -47,6 +47,8 @@ config.movement.movement_ratio=Movement ratio
 config.movement.movement_ratio.desc=The amout you go forward every time
 config.movement.mouse_sensibility=Mouse sensibility
 config.movement.mouse_sensibility.desc=The amout you turn your head with the mouse
+config.movement.fov=FOV
+config.movement.fov.desc=Field Of View
 
 # Movement keyboard
 config.movement_keyboard=Movement keyboard

@@ -47,6 +47,8 @@ config.movement.movement_ratio=Rapidité de mouvement
 config.movement.movement_ratio.desc=Vitesse à laquelle vous avancez
 config.movement.mouse_sensibility=Sensibilité de la souris
 config.movement.mouse_sensibility.desc=Vitesse à laquelle vous tournez la tête
+config.movement.fov=FOV
+config.movement.fov.desc=Field Of View (Champ De Vision)
 
 # Movement keyboard
 config.movement_keyboard=Mouvement clavier
